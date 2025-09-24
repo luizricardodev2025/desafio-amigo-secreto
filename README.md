@@ -13,3 +13,7 @@ Impedir a inserção de nomes vazios ou repetidos
 Exibir a lista de nomes adicionados
 Realizar sorteio aleatório entre os nomes cadastrados
 Exibir o resultado de forma clara e divertida
+
+🌐 Acesse o jogo online
+Jogue agora o **Jogo do Amigo Secreto** pelo link:
+https://desafio-amigo-secreto-78z3nr8ri-luizricardodev2025s-projects.vercel.app/
